@@ -1,2 +1,3 @@
 # 21_days_challenge
 The coding challenge begins...
+https://www.youtube.com/watch?v=rfscVS0vtbw started with the basics and introduction to Pythin today. 
